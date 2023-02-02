@@ -1,7 +1,8 @@
 # Student-management-system
 =======
 
-Tech Stack
+#Tech Stack
+
 Frontend
   -HTML5
   -CSS3
