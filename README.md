@@ -3,11 +3,11 @@
 
 #Tech Stack
 
-Frontend
+#Frontend
   -HTML5
   -CSS3
   -Bootstrap4-
-Backend
+#Backend
   -Django framework
-Database
+#Database
   -SQLite
